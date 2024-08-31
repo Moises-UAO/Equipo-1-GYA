@@ -1,5 +1,6 @@
 # Equipo-1-GYA
 Repositorio para los codigos y seguimiento del proyecto del grupo 1 en la asignatura Gestión y Almacenamiento de Datos.
+
 Integrantes:
  * Hibaliudt Pineda Agudelo
  * Andrea Jimena Alarcon Ledezma
@@ -15,7 +16,9 @@ Caracterización de comportamiento de consumo de energía de usuarios de un merc
 Las caracterización se enfocara en la clasificación de los usuario enfocados a :
 
 **Residencial:** Hogares y viviendas.
+
 **Comercial:** Tiendas, oficinas, restaurantes.
+
 **Industrial:** Plantas de manufactura, fábricas.
 
 ## 3. Problema.
