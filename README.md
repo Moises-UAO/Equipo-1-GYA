@@ -55,7 +55,7 @@ Las caracterización se enfocara en la clasificación de los usuario enfocados a
   
   **7. Incendios:** Riesgos elevados de incendios por sobrecargas y conexiones ilegales.
   
-  **8. Afectación en la Infraestructura: Daños a largo plazo en la red eléctrica y otros activos debido a manipulaciones y vandalismo.
+  **8. Afectación en la Infraestructura:** Daños a largo plazo en la red eléctrica y otros activos debido a manipulaciones y vandalismo.
   
   **9. Electrocución:** Aumento del riesgo de accidentes eléctricos graves, incluyendo electrocuciones, por manipulación indebida de la red.
 
